@@ -2,6 +2,8 @@
 
 Billing Ops Workspace
 
+Billing Ops Workspace is an interactive billing operations demo that shows how a finance or revops team could configure, schedule, run, and review complex billing workflows from one place. It lets you switch between billing configurations, inspect matched accounts, edit customizable billing steps, review historical periods, and generate invoice runs with visible step-by-step progression and amount tracking.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
