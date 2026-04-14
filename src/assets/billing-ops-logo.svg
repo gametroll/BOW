@@ -1,0 +1,26 @@
+<svg
+  width="256"
+  height="256"
+  viewBox="0 0 256 256"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <clipPath id="clockClipFinal">
+      <rect x="104" y="44" width="76" height="54" rx="16" />
+    </clipPath>
+  </defs>
+
+  <g stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 102H72L84 148" />
+    <path d="M84 148H164C168 148 172 145 174 141L184 120H96" />
+    <circle cx="108" cy="188" r="8" />
+    <circle cx="156" cy="188" r="8" />
+
+    <g clip-path="url(#clockClipFinal)">
+      <circle cx="142" cy="82" r="30" />
+      <path d="M142 82V70" />
+      <path d="M142 82L152 90" />
+    </g>
+  </g>
+</svg>
